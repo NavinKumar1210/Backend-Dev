@@ -1,6 +1,6 @@
 Topics
 **********************
-http*
+Http :
 overview
 headers
 session
@@ -9,12 +9,14 @@ compression
 caching
 authentication
 connection management
-forward,reverse proxy
+methods
+protocals
+status codes
 Cors - error
+forward,reverse proxy
 http 1/2/3
-http methods
-http protocals
-http status codes
+*************************
+https
 *************************
 What happens when you type a URL into your browser
 Dns
