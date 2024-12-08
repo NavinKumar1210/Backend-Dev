@@ -1,1 +1,67 @@
-Https
+Topics
+**********************
+http*
+overview
+headers
+session
+cookies
+compression
+caching
+authentication
+connection management
+forward,reverse proxy
+Cors - error
+http 1/2/3
+http methods
+http protocals
+http status codes
+*************************
+What happens when you type a URL into your browser
+Dns
+*************************
+Osi model
+*************************
+Types of api architectures -grpc,rpc,graphQl
+API Gateway
+Api Security
+performance and scalability
+**************************
+api architectures patterns - monolithic,microservice,event driven
+Microservice
+**************************
+Server :
+forward proxy vs reverse proxy
+Load Balancer
+CDN
+Client server architecture
+Client architecture patterns
+Baremetal vs vm vs container
+****************************
+concurrency vs parellism
+Thread and process
+***************************
+Distributed System patterns , nats
+***************************
+Authentication vs Authorization
+SSH
+SSO - oauth
+Session vs jwt
+*****************************
+Design patterns
+******************************
+Testing:
+Api Testing
+Application Testing
+Testing tools
+******************************
+Cloud Native
+Aws
+******************************
+Git - Merge Rebase and cherrypick
+CI/CD pipelines -docker,kubernates deployment statergies
+*********************************
+Cache System -redis
+*******************************
+Solid and Cap
+******************************
+backend burger
