@@ -1,4 +1,4 @@
-HttpMethods
+HTTP Methods
 
 GET :
         * The GET method is used to retrieve data on a server
