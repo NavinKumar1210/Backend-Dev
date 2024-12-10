@@ -10,13 +10,13 @@ caching
 authentication
 connection management
 methods
-protocals
 status codes
 Cors - error
 forward,reverse proxy
 http 1/2/3
 *************************
 https
+Network protocals
 *************************
 What happens when you type a URL into your browser
 Dns
