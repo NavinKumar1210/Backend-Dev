@@ -1,6 +1,6 @@
-HTTP Response Codes
+# HTTP Response Codes
 
-Response Types :
+## Response Types :
                     * Successful response = 200-299
 
                     * Redirection response = 300-399
@@ -10,7 +10,7 @@ Response Types :
                     * Server error response = 500-599
                     
 
-Successful responses : 
+## Successful responses : 
                             * 200 - OK - The request succeeded.
 
                             * 201 - created - The request succeeded and the resource created
@@ -19,14 +19,14 @@ Successful responses :
 
                             * 204 - No Content - The server successfully processed the request, but there is no content to return.
 
-Redirection responses :
+## Redirection responses :
                             * 301 - Moved Permanently - The resource has been permanently moved to a new URL.
 
                             * 302 - Found - The resource is temporarily located at a different URL.
 
                             * 304 - Not Modified - The resource has not been modified since the last request.
 
-Client Errors responses :
+## Client Errors responses :
                             * 400 - Bad Request - The server could not understand the request due to invalid syntax.
 
                             * 401 - Unauthorized - The request requires user authentication.
@@ -41,7 +41,7 @@ Client Errors responses :
 
                             * 429 - Too Many Requests - The user has sent too many requests in a given amount of time.
 
-Server Errors responses :
+## Server Errors responses :
                             * 500 - Internal Server Error - The server encountered an unexpected condition that prevented it from fulfilling the request.
 
                             * 502 - Bad Gateway - The server received an invalid response from the upstream server.
