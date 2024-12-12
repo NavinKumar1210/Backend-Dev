@@ -1,7 +1,7 @@
 # Reverse Proxy :
 * As the name implies, a reverse proxy does the opposite of what a forward proxy does.
   Forward proxies can hide the identities of clients whereas reverse proxies can hide 
-  the identities of servers. eg : Refer Image
+  the identities of servers. eg : Refer Image ForwardandReverseProxy.webp
 
 
 ## Why Reverse Proxy :
