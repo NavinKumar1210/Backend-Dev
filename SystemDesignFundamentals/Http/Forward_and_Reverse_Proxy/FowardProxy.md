@@ -1,7 +1,7 @@
 # Forward Proxy :
 * Forward proxy is a Server that is acts as a intermediatery between a ( one or multiple ) users and internet.
 
-* Example : you can use Nginx and apache as Forward Proxy Server. Refer Image
+* Example : you can use Nginx and apache as Forward Proxy Server. Refer Image ForwardandReverseProxy.webp
 
 ## Why Forward Proxy :
 
