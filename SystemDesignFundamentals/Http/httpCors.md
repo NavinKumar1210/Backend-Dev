@@ -1,6 +1,7 @@
 # Cross-Origin Resource Sharing ( CORS ) :
-* CORS is a Security feauture in web browser that allows a web page to request Resources from other Server than it's own.It is important  
-  because web browsers enforce same-origin-policy that restrict cross origin requests by default to protect users from malicious websites
+* CORS is a Security feauture in web browser that allows a web page to request Resources from other Server than it's own.It is 
+  important because web browsers enforce same-origin-policy that restrict cross origin requests by default to protect users 
+  from malicious websites
 
 # CORS headers :
 
