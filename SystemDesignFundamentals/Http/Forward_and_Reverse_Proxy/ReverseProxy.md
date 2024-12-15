@@ -1,7 +1,7 @@
 # Reverse Proxy :
 * As the name implies, a reverse proxy does the opposite of what a forward proxy does.
   Forward proxies can hide the identities of clients whereas reverse proxies can hide 
-  the identities of servers. eg : Refer Image ForwardandReverseProxy.webp
+  the identities of servers. eg : Refer below image. image credit - DesignGuru
 
 
 ## Why Reverse Proxy :
@@ -27,3 +27,5 @@
 
 ### Microservice  :
 * It provides a single entry point for incoming traffic.
+
+![alt text](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwqces5nwe4hb4bydyd13.png)
