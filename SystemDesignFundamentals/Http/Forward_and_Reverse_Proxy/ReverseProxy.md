@@ -1,7 +1,10 @@
 # Reverse Proxy :
 * As the name implies, a reverse proxy does the opposite of what a forward proxy does.
   Forward proxies can hide the identities of clients whereas reverse proxies can hide 
-  the identities of servers. eg : Refer below link for more details
+  the identities of servers.
+
+* eg : Refer below link for more details
+  https://blog.bytebytego.com/p/ep25-proxy-vs-reverse-proxy
 
 
 ## Why Reverse Proxy :
@@ -27,5 +30,3 @@
 
 #### Microservice  :`
 * It provides a single entry point for incoming traffic.<br><br>
-
-[text](https://blog.bytebytego.com/p/ep25-proxy-vs-reverse-proxy)
