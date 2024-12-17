@@ -1,7 +1,7 @@
 # Forward Proxy :
 * Forward proxy is a Server that is acts as a intermediatery between a ( one or multiple ) users and internet.
 
-* Example : you can use Nginx and apache as Forward Proxy Server. eg : Refer below image. image credit - DesignGuru
+* Example : you can use Nginx and apache as Forward Proxy Server. eg : Refer below link for more details
 
 ## Why Forward Proxy :
 
@@ -26,4 +26,4 @@
 * By filtering and blocking malicious websites requests , forward proxies can protect internal networks 
   from external threats.<br><br>
 
-![alt text](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwqces5nwe4hb4bydyd13.png)
+[text](https://blog.bytebytego.com/p/ep25-proxy-vs-reverse-proxy)
