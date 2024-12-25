@@ -1,27 +1,28 @@
 Topics
 **********************
 Http :
-overview
+overview - done
 headers
 session
 cookies
 compression
 caching
 authentication
-connection management
-methods
-status codes
-Cors - error
-forward,reverse proxy
-http 1/2/3
+connection management - done
+methods - done
+status codes - done
+Cors - error - done
+forward,reverse proxy - done
+http 1/2/3 - done
+TCP handshake -done
 *************************
-https
-Network protocals
+SSL certificate
+Network protocals - TCP,UDP,FTP,SMTP,https,HTTP/3,web Socket
 *************************
 What happens when you type a URL into your browser
 Dns
 *************************
-Osi model
+Osi model -done
 *************************
 Types of api architectures -grpc,rpc,graphQl
 API Gateway
