@@ -17,7 +17,7 @@ http 1/2/3 - done
 TCP handshake -done
 *************************
 SSL certificate
-Network protocals - TCP,UDP,FTP,SMTP,https,HTTP/3,web Socket
+Network protocals - TCP -done ,UDP-done,FTP,SMTP,https,HTTP/3,web Socket
 *************************
 What happens when you type a URL into your browser
 Dns
