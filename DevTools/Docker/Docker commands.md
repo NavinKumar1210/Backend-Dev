@@ -34,7 +34,3 @@ Docker hub you can add filter for each fields
 
 ### easy way to start the container :
 * docker run hello-world - it will create and start and attach the logs of the container
-
-
-Example:
-

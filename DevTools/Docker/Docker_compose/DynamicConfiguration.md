@@ -15,6 +15,8 @@
 * you can name the primary and override file by your reference  
 example : docker-compose.local.yaml, docker-compose.staging.yaml
 * docker compose command : docker-compose -f [primary-file] -f [override-file] command
+* if there are fields like array docker compose will add all the data from primary and override file
+* if there is any single field compose will give preference override file over primary
 
 #### Environment Variables :
 * if docker-compose have different behaviour in different environment you don't wants to support override

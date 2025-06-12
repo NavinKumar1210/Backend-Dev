@@ -7,4 +7,3 @@
 * when we use depends on the docker compose up first start the dependency service the our application
 and docker compose down will stop our service first then the dependency services
 * docker compose up doesn't guarentee the Uptime of dependency services it only guarentee it has started
-* 
